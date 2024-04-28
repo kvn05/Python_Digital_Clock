@@ -1,1 +1,1 @@
-# Python_Digital_Clock
+# python-digital-clock
